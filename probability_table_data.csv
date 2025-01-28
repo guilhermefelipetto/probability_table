@@ -1,0 +1,13 @@
+Clima,Temperatura,Umidade,Decisao
+sol,quente,alta,sim
+sol,quente,normal,sim
+nublado,quente,alta,sim
+chuva,frio,alta,nao
+chuva,frio,normal,nao
+chuva,frio,normal,nao
+nublado,frio,normal,nao
+sol,ameno,alta,sim
+sol,frio,normal,nao
+chuva,ameno,normal,nao
+sol,ameno,normal,sim
+nublado,ameno,alta,sim
